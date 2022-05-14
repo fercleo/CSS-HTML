@@ -1,0 +1,46 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:600px;
+    height:80px;
+    margin:auto;
+    background-color:#2a0c83;
+    font-family:Arial;
+    color:rgb(167, 10, 10); 
+}
+body {
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+p {
+    color: gold;
+}
+h1 {
+    color: gold
+}
+h2 {
+    color:gold
+}
+h3 {
+    color: gold
+}
+ol {
+    color: gold;
+}
+h4 {
+    color: gold;
+}
+ul {
+    color: gold;
+}
+a {
+    color: gold;
+}
